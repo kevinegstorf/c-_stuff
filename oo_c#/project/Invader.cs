@@ -1,0 +1,7 @@
+namespace SimpleDefense
+{
+    class Invader
+    {
+
+    }
+}
